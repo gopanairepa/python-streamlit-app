@@ -3,7 +3,7 @@
   "locale": "en_US.UTF-8",
   "metadata": {
     "appmode": "python-streamlit",
-    "entrypoint": "app"
+    "entrypoint": "app.py"
   },
   "python": {
       "package_manager": {
