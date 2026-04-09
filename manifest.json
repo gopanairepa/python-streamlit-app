@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+      "package_manager": {
+      "name": "pip",
+      "version": "21.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "3f65dcb3d2eb07a0cd28dca63bac42ce"
+    },
+    "app.py": {
+      "checksum": "55cf21bf0a619bffd8d1d75b07bbd396"
+    }
+  }
+}
